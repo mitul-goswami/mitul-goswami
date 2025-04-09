@@ -1,18 +1,16 @@
 # Hi there! 👋 I'm Mitul Goswami
 
-🚀 **Research Intern @ BioAI Lab, UiT The Arctic University of Norway**  
+🚀 **Software Developer**  
 🎓 **B. Tech in Computer Science & Engineering - KIIT University (2022-2026)**
 
 ---
 
 ### 📌 About Me
 
-I am a passionate Computer Science student specializing in **Machine Learning**, **Computer Vision**, and **Network Security**. With a strong foundation in **AI/ML**, I work on cutting-edge research problems and enjoy building solutions that solve real-world challenges.
+I am a passionate Computer Science student with a keen interest in **Machine Learning**, **Computer Vision**, **Deep Learning** and **Network Security**. With a strong foundation in **Software Development**, I work on cutting-edge research problems and enjoy building solutions that solve real-world challenges.
 
 - 📊 Currently working on **Bias Detection & Mitigation**, **Vision Transformers**, and **Kolmogorov Arnold Networks**
-- 📚 Published **5+ Research Papers** in **International Conferences and Journals**
-- 💡 Co-Founder of **OpenRAG** – Advancing AI-powered document intelligence
-
+- 
 📫 **Contact me:** mitulgoswami1212@gmail.com | 📞 +91 8584876789
 
 ---
