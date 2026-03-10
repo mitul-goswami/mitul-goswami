@@ -1,70 +1,117 @@
-# Hi there! 👋 I'm Mitul Goswami
+<!-- Animated Header -->
+<h1 align="center"><code>Hi there 👋 I'm Mitul Goswami</code></h1>
 
-🚀 **Software Developer**  
-🎓 **B. Tech in Computer Science & Engineering - KIIT University (2022-2026)**
-
----
-
-### 📌 About Me
-
-I am a passionate Computer Science student with a keen interest in **Machine Learning**, **Computer Vision**, **Deep Learning** and **Network Security**. With a strong foundation in **Software Development**, I work on cutting-edge research problems and enjoy building solutions that solve real-world challenges.
-
-- 📊 Currently working on **Bias Detection & Mitigation**, **Vision Transformers**, and **Kolmogorov Arnold Networks**
-- 
-📫 **Contact me:** mitulgoswami1212@gmail.com | 📞 +91 8584876789
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Backend+Engineering+%2B+AI%2FML;LLMs+%7C+Agentic+AI;Applied+Machine+Learning+Researcher"/>
+</p>
 
 ---
 
-### 🧰 Tech Stack
+# <code>🚀 Mitul Goswami</code>
 
-<div align="center">
+**Software Engineer** | Prev @ **ADP**  
+Ex – Research @ **Bio-AI Lab**, **DRDO**, **ATDC – IIT KGP**
 
-<img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" height="40"/>
-<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="40"/>
-<img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" height="40"/>
-<img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="40"/>
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="40"/>
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="40"/>
-<img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="40"/>
-<img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" height="40"/>
-<img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" height="40"/>
-<img src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white" height="40"/>
-<img src="https://img.shields.io/badge/-Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" height="40"/>
-<img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="40"/>
-<img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="40"/>
-<img src="https://img.shields.io/badge/-LangChain-005571?style=for-the-badge&logo=langchain&logoColor=white" height="40"/>
-<img src="https://img.shields.io/badge/-GLG%20Toolkit-5C3EE8?style=for-the-badge&logo=data&logoColor=white" height="40"/>
+**Backend Engineering • AI/ML • LLMs • Agentic AI**
 
-</div>
+🎓 **B.Tech Computer Science & Engineering — KIIT University (2022–2026)**
 
 ---
 
-### 🏆 Key Projects
+# <code>📌 About Me</code>
 
-#### [DocDynamo – AI-Powered Document Intelligence](https://docdynamo.in)
+- 📊 Working on **Applied Machine Learning**, **Healthcare AI (Fairness & Optimization)**, **Pattern Recognition**, and **Network Security**
+- 🔬 Exploring research in **Explainable AI** and **Bioinformatics**
+- ⚙️ Interested in building **scalable ML systems and backend infrastructure for AI applications**
 
-- ![LangChain](https://img.shields.io/badge/-LangChain-005571?logo=langchain&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
-- Implemented **LLMs and Retrieval-Augmented Generation (RAG)** for precise document analysis.
-- Built custom **document-specific vector stores** using **sentence embeddings** for content retrieval.
-
-#### [Web-Based Tracking RADAR Trajectory Simulator](https://github.com/mitul-goswami/Web---Based-Tracking-RADAR-Trajectory-Simulator)
-
-- ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) ![GLG Toolkit](https://img.shields.io/badge/-GLG%20Toolkit-5C3EE8?logo=data&logoColor=white) ![UDP](https://img.shields.io/badge/-UDP-005571?logo=network&logoColor=white)
-- Engineered a **real-time RADAR simulator** to process ECEF, ENV, and LLA data.
-- Improved **angular accuracy by 30%** and **range precision by 45%** using multi-threading and UDP.
-
-#### [Pixelation Detection & Correction](https://github.com/mitul-goswami/Detect-Pixelated-Images-and-Correct-It-)
-
-- ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-- Built a **U-Net-based** solution for detecting and correcting pixelated images with **88% accuracy**.
-- Enhanced model efficiency through **depth-wise and point-wise convolutions**.
+📫 **Contact:**  
+📧 <code>mitulgoswami1212@gmail.com</code>  
+📞 <code>+91 8584876789</code>
 
 ---
 
-### 📲 Connect With Me
+# <code>🧰 Tech Stack</code>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mitul-goswami-a6114b230/) 
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=HAwfoPEAAAAJ&hl=en) 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/mitul-goswami) 
+<p align="center">
 
-💌 **Email:** mitulgoswami1212@gmail.com | 📞 **Phone:** +91 8584876789
+<img src="https://skillicons.dev/icons?i=java,python,c,mysql,html,css,flask,git,github,azure,tensorflow,pytorch&perline=6"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/LangChain-LLM_Framework-005571?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenCV-Computer_Vision-5C3EE8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GLG_Toolkit-Simulation-5C3EE8?style=for-the-badge"/>
+
+</p>
+
+---
+
+# <code>🏆 Key Projects</code>
+
+## <code>📄 DocDynamo – AI-Powered Document Intelligence</code>
+
+🔗 https://docdynamo.in
+
+- Built a web-based system to ingest, store, and process documents, exposing APIs for efficient querying and retrieval of relevant content.
+- Designed document indexing and retrieval workflows to handle unstructured data at scale.
+- Deployed the application on Microsoft Azure, serving **2.9K+ global users**.
+
+**Stack**
+
+`Python` • `LangChain` • `Flask` • `LLMs` • `Vector Embeddings` • `REST APIs` • `HTML` • `CSS` • `Microsoft Azure` • `Docker`
+
+---
+
+## <code>📘 CopyCheckerAI - Answer Evaluation System</code>
+
+🔗 https://github.com/mitul-goswami/CopyChecker-AI
+
+- Built a backend data-processing pipeline to handle scanned answer sheets by extracting, structuring, and storing textual data for evaluation workflows.
+- Implemented an OCR-based preprocessing module to process image uploads and normalize extracted text, reducing manual correction effort by **30%**.
+- Designed modular services to support file ingestion, processing, and result generation, improving reliability and maintainability of the system.
+
+**Stack**
+
+`Python` • `Flask` • `Yolov8` • `LLMs` • `REST APIs` • `HTML` • `CSS`
+
+---
+
+## <code>🧠 LitReviewAI</code>
+
+🔗 https://github.com/mitul-goswami/LitReviewAI
+
+- Designed and built a multi-agent AI system that autonomously generates structured academic literature reviews from a single research topic by orchestrating specialized agents for paper discovery, PDF extraction, summarization, cross-paper comparison, and final review generation.
+- Implemented a backend pipeline to retrieve research papers from the web, extract text from PDFs, and generate structured analyses including methods, results, limitations, and research gaps.
+- Developed a full-stack research interface enabling users to generate publishable Markdown and LaTeX literature reviews; containerized the system using Docker for reproducible deployment.
+
+**Stack**
+
+`Python` • `FastAPI` • `LLMs` • `ArXiv & Semantic Scholar REST API` • `PyPDF` • `HTML` • `CSS` • `JavaScript` • `Docker`
+
+---
+
+# <code>📲 Connect With Me</code>
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/mitul-goswami-a6114b230/">
+<img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://scholar.google.com/citations?user=HAwfoPEAAAAJ&hl=en">
+<img src="https://img.shields.io/badge/Google_Scholar-Publications-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/>
+</a>
+
+<a href="https://github.com/mitul-goswami">
+<img src="https://img.shields.io/badge/GitHub-Code_Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+💡 <i>Building intelligent systems that combine software engineering and machine learning to solve real-world problems.</i>
+</p>
