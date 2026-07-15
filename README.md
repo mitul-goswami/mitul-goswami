@@ -9,7 +9,7 @@
 
 # <code>🚀 Mitul Goswami</code>
 
-**Software Engineer** | Prev @ **ADP**  
+**Software Engineer** | Member of Technical Staff @ **ADP**  
 Ex – Research @ **Bio-AI Lab**, **DRDO**, **ATDC – IIT KGP**
 
 **Backend Engineering • AI/ML • LLMs • Agentic AI**
